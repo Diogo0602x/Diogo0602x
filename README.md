@@ -14,5 +14,5 @@
 ### Com o que trabalho
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=696969&icon_color=599cab&text_color=DCDCDC&bg_color=0000004&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=000000&icon_color=599cab&text_color=DCDCDC&bg_color=696969&layout=compact">
 </div>
