@@ -7,12 +7,12 @@
 - 📫 Como falar comigo: diogoteixeira0602@gmail.com;
 
 <div>
-   <img src=https://github-readme-stats.vercel.app/api?username=diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=1C1C1C&icon_color=599cab&text_color=DCDCDC&bg_color=0c1014>
+   <img src=https://github-readme-stats.vercel.app/api?username=diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=000000&icon_color=599cab&text_color=DCDCDC&bg_color=0c1014>
 </div>
 
 
 ### Com o que trabalho
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=696969&icon_color=599cab&text_color=DCDCDC&bg_color=0000004&layout=compact">
 </div>
