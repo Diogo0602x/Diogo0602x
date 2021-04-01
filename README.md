@@ -7,7 +7,7 @@
 - 📫 Como falar comigo: diogoteixeira0602@gmail.com;
 
 <div>
-   <img src=https://github-readme-stats.vercel.app/api?username=diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=000000&icon_color=599cab&text_color=E6E8FA&bg_color=0c1014>
+   <img src=https://github-readme-stats.vercel.app/api?username=diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=E6E8FA&icon_color=599cab&text_color=000000&bg_color=0c1014>
 </div>
 
 ### Com o que trabalho
