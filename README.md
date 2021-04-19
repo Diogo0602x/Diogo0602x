@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Diogo Sales Teixeira, estudante de Engenharia de Software.
-- 🌱 Atualmente estou aprendendo NodeJs, ReactJs, ReactNative, Java;
+- 🌱 Atualmente estou aprendendo NodeJs, ReactJs, ReactNative, Javascript;
 - 👯 Estou procurando emprego ou novas oportunidades;
 - 🤔 Estou procurando por ajuda com minha evolução;
 - 💬 Me pergunte sobre qualquer coisa;
