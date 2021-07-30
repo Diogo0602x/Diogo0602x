@@ -6,8 +6,8 @@
 - 📫 Como falar comigo: diogoteixeira0602@gmail.com;
  <div>
   <a href="https://github.com/Diogo0602x">
-  <img height="180em" <img src="https://github-readme-stats.vercel.app/api?username=Diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact"/>
+  <img height="180em" <img src="https://github-readme-stats.vercel.app/api?username=Diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&layout=compact"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
