@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Diogo Sales Teixeira, estudante de Engenharia de Software.
-- 🌱 Atualmente estou aprendendo NodeJs, ReactJs, ReactNative, Javascript;
+- 🌱 Atualmente estou aprendendo NodeJs, ReactJs, ReactNative, Javascript, Java;
 - 👯 Estou procurando emprego ou novas oportunidades;
 - 🤔 Estou procurando por ajuda com minha evolução;
 - 💬 Me pergunte sobre qualquer coisa;
@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&layout=compact"/>
 <div>
 <div style="display: inline_block"><br>
+   <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
