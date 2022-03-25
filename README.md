@@ -29,5 +29,4 @@
    
   ![Snake animation](https://github.com/Diogo0602x/Diogo0602x/blob/output/github-contribution-grid-snake.svg)
 
- 
 </div>
