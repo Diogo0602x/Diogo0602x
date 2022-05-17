@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Diogo Sales Teixeira, estudante de Engenharia de Software.
-- 💻 Atualmente estou aprendendo Oracle Cloud, Python, H2o.ia e Qlik;
+- 💻 Atualmente estou aprendendo Python, React, Oracle Cloud, H2o.ia e Qlik;
 - 🎓 Cursando Engenharia de Software 5° Semestre;
 - 💼 Estagiário de tecnologia da informação na Tarea Management;
 - 💬 Me pergunte sobre qualquer coisa;
@@ -28,6 +28,5 @@
   <a href="https://www.linkedin.com/in/diogo0602x" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
   ![Snake animation](https://github.com/Diogo0602x/Diogo0602x/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
