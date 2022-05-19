@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Diogo Sales Teixeira, estudante de Engenharia de Software.
-- 💻 Atualmente estou aprendendo Python, React, Oracle Cloud, H2o.ia e Qlik;
+- 💻 Atualmente estou aprendendo Python, React, Blockchain, Oracle Cloud, H2o.ia e Qlik;
 - 🎓 Cursando Engenharia de Software 5° Semestre;
 - 💼 Estagiário de tecnologia da informação na Tarea Management;
 - 💬 Me pergunte sobre qualquer coisa;
