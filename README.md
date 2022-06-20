@@ -1,33 +1,37 @@
-## Oii! Eu sou o Diogo Sales Teixeira, estudante de Engenharia de Software.
-- 💻 Atualmente estou aprendendo Python, React, Blockchain, Oracle Cloud, H2o.ia e Qlik;
-- 🎓 Cursando Engenharia de Software 5° Semestre;
-- 💼 Estagiário de tecnologia da informação na Tarea Management;
-- 💬 Me pergunte sobre qualquer coisa;
-- 📫 Como falar comigo: diogoteixeira0602@gmail.com;
- <div>
-  <a href="https://github.com/Diogo0602x">
-  <img height="180em" <img src="https://github-readme-stats.vercel.app/api?username=Diogo0602x&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo0602x&count_private=true&include_all_commits=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&layout=compact"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Diogo Sales Teixeira &fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Diogo+Sales+Teixeira;I'm+20+years+old;I+from+Brasília,+DF;I+study+software+engineering+at+Universidade Católica de Brasília+5°+Semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diogo0602x&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Sales Teixeira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0602x&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   
+![Contribution](https://activity-graph.herokuapp.com/graph?username=diogo0602x&theme=gotham&hide_border=true&area=true)
+   
 <div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Diogo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
- <img align="center" alt="Diogo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ 
+  <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Diogo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Diogo-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Diogo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Diogo-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Diogo-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+
 </div>
-  
+  </div>
+
   ##
- 
-<div> 
-  <a href="https://instagram.com/diogosalest" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <div>
+  <a href="https://www.instagram.com/diogosalest/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diogoteixeira0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo0602x" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-  ![Snake animation](https://github.com/Diogo0602x/Diogo0602x/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/ericksalignac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
