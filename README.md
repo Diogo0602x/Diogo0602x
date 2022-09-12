@@ -4,8 +4,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diogo0602x&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Sales Teixeira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo0602x&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
    
-![Contribution](https://activity-graph.herokuapp.com/graph?username=diogo0602x&theme=gotham&hide_border=true&area=true)
-   
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=diogo0602x&theme=gotham&hide_border=true&area=true)
+    -->
 <div>
 <div style="display: inline_block"><br>
  
