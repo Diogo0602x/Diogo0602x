@@ -34,6 +34,6 @@
 
 </div>
   
-  <a href="https://app.daily.dev/DiOGO"><img src="https://api.daily.dev/devcards/adb5760baeca44698620c172676a1d11.png?r=xzu" width="400" alt="Diogo Teixeira's Dev Card"/></a>
+  <a href="https://app.daily.dev/DiOGO"><img src="https://api.daily.dev/devcards/adb5760baeca44698620c172676a1d11.png?r=xzu" width="200" alt="Diogo Teixeira's Dev Card"/></a>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
