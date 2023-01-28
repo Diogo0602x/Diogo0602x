@@ -33,5 +33,7 @@
   <a href="https://www.linkedin.com/in/diogo0602x" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  
+  <a href="https://app.daily.dev/DiOGO"><img src="https://api.daily.dev/devcards/adb5760baeca44698620c172676a1d11.png?r=xzu" width="400" alt="Diogo Teixeira's Dev Card"/></a>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
