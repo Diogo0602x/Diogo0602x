@@ -6,23 +6,27 @@
 
 <div>
   <p>
-    🚀 Desenvolvedor Full Stack com uma paixão imensa por inovação e tecnologia! Ao longo da minha carreira, tenho contribuído significativamente para projetos que modernizam e transformam sistemas complexos, sempre buscando a excelência técnica e a eficiência nas soluções implementadas.  
+    🚀 Desenvolvedor Full Stack com uma paixão imensa por inovação e tecnologia! Durante minha carreira, desempenhei papéis essenciais em projetos que modernizam e transformam sistemas complexos, sempre voltado para a excelência técnica e eficiência nas soluções implementadas.  
   </p>
  
   <p>
-      🌐 Atualmente, estou na Mirante Tecnologia, onde sou responsável pelo desenvolvimento de aplicações utilizando React.js, React Native, Angular e TypeScript. Contribuí para a modernização de sistemas estratégicos do Exército Brasileiro, aprimorando minhas habilidades em design de software e especializando-me no uso de hooks e gerenciamento de estado com Redux e Context API. Meu trabalho envolve a criação de componentes reutilizáveis e otimizados, garantindo a alta performance dos sistemas. 
+      🌐 Atualmente, estou na CI&T Software S/A, onde meu foco está no desenvolvimento frontend com React.js, participando de projetos estratégicos para o Banco Bradesco. Minhas responsabilidades incluem orientar a equipe em boas práticas de desenvolvimento, garantindo a qualidade e eficiência. Destaco minha contribuição para o redesign do fluxo de contratação de previdências, otimizando navegação e simplificando interfaces complexas. 
   </p>
   
   <p>
-    🔗 Em minha experiência anterior na 7COMm, atuei como Desenvolvedor Fullstack Júnior focado em projetos avançados de blockchain e tokenização de ativos digitais para a Bolsa OTC. Utilizando tecnologias como React, Angular, R3 Corda e DLT, participei no desenvolvimento do projeto de tokenização de ativos digitais e no aplicativo do Banco Paulista, focando na parte de consentimento do Open Finance. Além disso, estou aprofundando meus conhecimentos em Solidity e Hyperledger Besu, integrando-me ao piloto do Real Digital.
+    🔗 Anteriormente, trabalhei como Desenvolvedor Fullstack na Mirante Tecnologia, focado em aplicações utilizando React.js, React Native, Angular, e TypeScript. Contribuí para a modernização de sistemas estratégicos do Exército Brasileiro, e minha especialização incluiu o uso de hooks e gerenciamento de estado com Redux e Context API.
   </p>
   
   <p>
-    💼 Durante meu tempo na TAREA Management, desenvolvi um PWA utilizando APIs, React, Docker, blockchain e estrutura offchain (MongoDB) com o objetivo de permitir que pacientes e empresas visualizem exames no mesmo site, utilizando a lógica do blockchain para segurança e integridade dos dados. Esse projeto foi um sucesso e, como resultado, fui promovido a trainee. Participei do desenvolvimento do projeto Bem-Te-Vi V2 do Ibama, utilizando Java e Spring Boot no backend e Angular no frontend. Essa experiência me proporcionou um amplo aprendizado nas plataformas Oracle, H2o.ai, Qlik e Blockchain.
+    💼 Na 7COMm, atuei como Desenvolvedor Fullstack/Blockchain Júnior em projetos avançados de blockchain e tokenização de ativos digitais, incluindo o projeto de Real Digital com o Banco Central, além de projetos para a Bolsa OTC e Banco Paulista. Minha experiência também abrangeu o desenvolvimento de uma PWA para o projeto Bem-Te-Vi V2 do Ibama, utilizando React.js e Node.js.
   </p>
   
   <p>
-    📚 O aprendizado contínuo é uma parte fundamental da minha jornada. Sempre busco novos horizontes e tecnologias emergentes, impulsionado pela filosofia de "Stay Hungry, Stay Foolish". Estou determinado a explorar novas fronteiras na interseção entre finanças e tecnologia, contribuindo para projetos que moldam o futuro digital.  
+    👨‍💻 Na Tarea, comecei como estagiário e fui promovido a Desenvolvedor Trainee, onde desenvolvi uma PWA utilizando React.js e Node.js para o projeto Bem-Te-Vi V2 do Ibama. Durante minha passagem, adquiri experiência significativa em Docker e MongoDB, colaborando em todas as fases do desenvolvimento para soluções escaláveis.
+  </p>
+  
+  <p>
+    📚 O aprendizado contínuo é uma parte importante da minha jornada. Sou pós-graduado em Desenvolvimento Fullstack, sempre explorando novas fronteiras na interseção entre finanças e tecnologia, buscando moldar o futuro digital.  
   </p>
 </div>
 
